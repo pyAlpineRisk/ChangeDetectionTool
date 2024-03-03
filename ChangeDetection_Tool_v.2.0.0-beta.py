@@ -3,12 +3,12 @@
 """
 ***************************************************************************
 *                                                                         *
-*   QGIS ChangeDetection Tool v.2.0.0-beta                                   *
+*   QGIS ChangeDetection Tool v.2.0.0-beta                                *
 #   QQGIS-Version: 3.28.15-Firenze                                        * 
 *   pyAlpineRisk                                                          *
 *   Nicole Kamp                                                           *
 *   niki.kamp@gmail.com                                                   *
-*   www.nicolekamp.combinations                                           *
+*   www.nicolekamp.comb                                                   *
 *   October 2021                                                          *
 *   revised 03/2024                                                       *
 *                                                                         *
