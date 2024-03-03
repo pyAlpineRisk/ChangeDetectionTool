@@ -3,7 +3,8 @@
 <u>Natural hazard management of alpine torrential catchments</u>
 </p>
 
-<p>In a time of increasing meteorological extreme events, high-resolution terrain models are an important tool for managing natural hazards. Combining simplified models of the terrain with different spatial analysis methods, various information and parameters can be obtained, which make it easier to answer specific hydrological questions. pyAlpineRisk is a Python-based toolset that can be used in natural hazard management to support a variety of workflows. The collection of tools ranges from the first assessment of torrent catchments to the classification of torrents and the utilization of sediment material.</p>
+<p>At a time when severe weather events are becoming more frequent, the availability of detailed and high-resolution digital terrain models is key to the management of natural hazards.  For this reason, the author, in close collaboration with die.wildbach, developed a set of tools (pyAlpineRisk) that can be applied in the field of natural hazard management and adapted to other scientific enquiries. By using simple terrain models (DTM) and various spatial analysis methods, they were able to collect important data that can be used to address landform issues and support natural hazard management.
+</p>
  
  <h2>Change Detection Tool</h2>
 <p> The QGIS Change Detetcion Tool(QCD) is an an open-source python-based change detection tool for raster formats designed for QGIS. The tool is used to calculate an accurate change detection by determine and visualise reliable surface- and volume changes in multi-temporal DTMs.</p> 
