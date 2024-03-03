@@ -1,7 +1,4 @@
-<h1>pyAlpineRisk</h1>
-<p>
-<u><em>Natural hazard management of alpine torrential catchments</em></u>
-</p>
+<h1>pyAlpineRisk<em> - natural hazard management of alpine torrential catchments</em></h1>
 
 <p>At a time when severe weather events are becoming more frequent, the availability of detailed and high-resolution digital terrain models is key to the management of natural hazards.  For this reason, the author, in close collaboration with die.wildbach, developed a set of tools (pyAlpineRisk) that can be applied in the field of natural hazard management and adapted to other scientific enquiries. By using simple terrain models (DTM) and various spatial analysis methods, they were able to collect important data that can be used to address landform issues and support natural hazard management.
 </p>
@@ -9,7 +6,7 @@
  <h2>Change Detection Tool</h2>
 <p> The QGIS Change Detetcion Tool(QCD) is an an open-source python-based change detection tool for raster formats designed for QGIS. The tool is used to calculate an accurate change detection by determine and visualise reliable surface- and volume changes in multi-temporal DTMs.</p> 
 
-<h2>Installation/Application</h2>
+<h3>Installation/Application</h3>
 <p>QGIS ChangeDetection Tool v.2.0.0-beta is written for PyQGIS 3.28.15-Firenze and can be used by installing QGIS 3.28 or above.
 
 To install QGIS tools developed for QGIS 3.x, copy them into
