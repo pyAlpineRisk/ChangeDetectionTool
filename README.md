@@ -1,6 +1,7 @@
 <h1>pyAlpineRisk<em> - natural hazard management of alpine torrential catchments</em></h1>
 
 <p>At a time when severe weather events are becoming more frequent, the availability of detailed and high-resolution digital terrain models is key to the management of natural hazards.  For this reason, the author, in close collaboration with die.wildbach, developed a set of tools (pyAlpineRisk) that can be applied in the field of natural hazard management and adapted to other scientific enquiries. By using simple terrain models (DTM) and various spatial analysis methods, they were able to collect important data that can be used to address landform issues and support natural hazard management.
+All pyAlpineRisk tools are under constant development.
 </p>
  
  <h2>Change Detection Tool</h2>
